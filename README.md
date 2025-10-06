@@ -2,7 +2,7 @@
 # Student Adaptability Level Classification
 
 ## Project Description
-This project focuses on classifying students’ adaptability levels to online education using machine learning techniques. The objective is to predict whether a student’s adaptability is Low, Moderate, or High based on various demographic and academic features.  
+This project focuses on classifying and clustring students’ adaptability levels to online education using machine learning techniques. The objective is to predict whether a student’s adaptability is Low, Moderate, or High based on various demographic and academic features.  
 
 The project involves:
 - Exploring the dataset and understanding its features.  
