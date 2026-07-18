@@ -1,4 +1,4 @@
-# IT326-Data Science-project
+# IT326-Minning-project
 # Student Adaptability Level Classification
 
 ## Project Description
